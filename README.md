@@ -1,3 +1,2 @@
 # config-geany
-Config for geany IDE
-Put this in /home/$USER/.config/geany
+Config for geany IDE put this in /home/$USER/.config/geany
